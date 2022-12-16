@@ -12,7 +12,7 @@ Last updated December 15, 2022
 3. USER REPRESENTATIONS
 4. USER REGISTRATION
 5. PROHIBITED ACTIVITIES
-6. USER GENERATED CONTENT
+6. USER GENERATED CONTRIBUTIONS
 7. CONTRIBUTION LICENSE
 8. GUIDELINES FOR REVIEWS
 9. MOBILE APPLICATION LICENSE
@@ -102,7 +102,7 @@ sexual content
 offensive content
 
 
-### 6. USER GENERATED CONTENT
+### 6. USER GENERATED CONTRIBUTION
 
 FYR may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on FYR, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of FYR and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
